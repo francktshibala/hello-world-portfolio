@@ -6,7 +6,7 @@ This is a personal and friendly "Hello World" program written in JavaScript that
 
 My purpose for creating this software is to solidify my understanding of JavaScript fundamentals while establishing a professional development workflow. This project helps me practice version control with Git, technical documentation writing, and code organization - all essential skills for a software engineer.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FPMC5kJ3VaQ)
 
 ## What the Program Does
 
@@ -20,7 +20,7 @@ This Hello World program:
 ### Expected Output
 ```
 🌟 Hello World! 🌟
-👋 Hi there, Franco! Hope you're having a wonderful day!
+👋 Hi there, Franck! Hope you're having a wonderful day!
 📅 Today is Thursday, July 3, 2025
 💻 Welcome to my first JavaScript program for CSE 310!
 ✨ Thanks for checking out my code! ✨
