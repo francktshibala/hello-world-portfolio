@@ -1,7 +1,7 @@
 // Hello World program for CSE 310
 // A personal and friendly greeting program
 
-const name = "Franco"; // Replace with your actual name
+const name = "FrancK"; 
 const currentDate = new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     year: 'numeric',
